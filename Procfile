@@ -1,1 +1,2 @@
-web: java -jar target/acebook-1.0-SNAPSHOT.jar
+
+web: java -cp app.jar Main
