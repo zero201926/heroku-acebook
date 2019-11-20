@@ -1,2 +1,2 @@
 
-web: java -cp app.jar Main
+web: java $JAVA_OPTS -cp target/classes:target/Main
